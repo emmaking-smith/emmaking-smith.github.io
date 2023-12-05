@@ -21,6 +21,6 @@ Google seems to have trouble indexing the GitHub repos associated with King-Smit
 
    [Emma King-Smith*](https://www.wolfson.cam.ac.uk/people/dr-emma-king-smith)
 
-   [Paper](https://chemrxiv.org/engage/chemrxiv/article-details/6501ed1a99918fe537e49e59)
+   [Paper](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc04928k)
 
    [Repository](https://github.com/emmaking-smith/Modular_Latent_Space)
