@@ -5,7 +5,7 @@ Google seems to have trouble indexing the GitHub repos associated with King-Smit
 
    [Emma King-Smith](https://www.wolfson.cam.ac.uk/people/dr-emma-king-smith), Simon Berritt, Louise Bernier, Xinjun Hou, Jacquelyn Klug-McLeod, Jason Mustakis, Neal W. Sach, Joseph W. Tucker, Qingyi Yang, Roger M. Howard, [Alpha A. Lee*](https://www.alpha-lee.com/)
 
-   [Paper](https://chemrxiv.org/engage/chemrxiv/article-details/64f74524dd1a73847f3e76e8)
+   [Paper](https://www.nature.com/articles/s41557-023-01393-w)
    
    [Repository](https://github.com/emmaking-smith/HiTEA)
 
