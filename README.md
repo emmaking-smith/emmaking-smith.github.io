@@ -27,7 +27,7 @@ Google seems to have trouble indexing the GitHub repos associated with King-Smit
 
 4. Deconvoluting Low Yield from Weak Potency in Direct-to-Biology Workflows with Machine Learning
 
-   William McCorkindale, Mihajlo Filep, Nir London, [Alpha A. Lee](https://www.alpha-lee.com/), [Emma King-Smith](https://www.wolfson.cam.ac.uk/people/dr-emma-king-smith)
+   William McCorkindale, Mihajlo Filep, Nir London, [Alpha A. Lee](https://www.alpha-lee.com/), [Emma King-Smith*](https://www.wolfson.cam.ac.uk/people/dr-emma-king-smith)
 
    [Paper](https://chemrxiv.org/engage/chemrxiv/article-details/657d93e0e9ebbb4db907254c)
 
