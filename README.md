@@ -13,7 +13,7 @@ Google seems to have trouble indexing the GitHub repos associated with King-Smit
 
    [Emma King-Smith](https://www.wolfson.cam.ac.uk/people/dr-emma-king-smith), Felix A. Faber, Usa Reilly, Anton V. Sinitskiy, Qingyi Yang, Bo Liu, Dennis Hyek, [Alpha A. Lee*](https://www.alpha-lee.com/) 
    
-   [Paper](https://chemrxiv.org/engage/chemrxiv/article-details/64f7471679853bbd78275e41)
+   [Paper](https://www.nature.com/articles/s41467-023-42145-1?fbclid=IwAR1RnBIirqNfBQUdKE__VOmHBt-yPwn4ilsaX4ZmxzTiBkfHDdR0p82_bX8)
 
    [Repository](https://github.com/emmaking-smith/SET_LSF_CODE)
 
@@ -24,3 +24,12 @@ Google seems to have trouble indexing the GitHub repos associated with King-Smit
    [Paper](https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc04928k)
 
    [Repository](https://github.com/emmaking-smith/Modular_Latent_Space)
+
+4. Deconvoluting Low Yield from Weak Potency in Direct-to-Biology Workflows with Machine Learning
+
+   William McCorkindale, Mihajlo Filep, Nir London, [Alpha A. Lee](https://www.alpha-lee.com/), [Emma King-Smith](https://www.wolfson.cam.ac.uk/people/dr-emma-king-smith)
+
+   [Paper](https://chemrxiv.org/engage/chemrxiv/article-details/657d93e0e9ebbb4db907254c)
+
+   [Repository](https://gitlab.com/wjm41/noisyamides/)
+   
